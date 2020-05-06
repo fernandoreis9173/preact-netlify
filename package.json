@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "blog",
+  "name": "fernandoreis",
   "description": "Preact's netlify CMS template",
   "version": "0.1.2",
   "license": "MIT",
@@ -63,5 +63,5 @@
   "directories": {
     "test": "tests"
   },
-  "author": ""
+  "author": "fernando reis"
 }

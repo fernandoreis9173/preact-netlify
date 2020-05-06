@@ -33,7 +33,7 @@ const Home = () => {
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Olá você esta no meu pequeno Site que Desenvolvi usando ReactJS, sempre gostei de Tecnologias
+					Olá você está no meu pequeno Site que Desenvolvi usando ReactJS, sempre gostei de Tecnologias
 					como celulares, videogames, notebooks e computadores. Aos 14 anos comecei a fazer cursos de informática,
 					básico ao avançado, inglês entre outros cursos e palestras voltadas para Tecnologias. No Ensino Médio já
 					tinha optado por cursar faculdade na área de tecnologia.
