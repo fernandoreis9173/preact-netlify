@@ -28,27 +28,21 @@ const Home = () => {
 					Voltado para Front-End e Back-End, usando Tecnologias como ReactJS, NodeJS, HTML5, CSS3, BOOTSTRAP, ANGULARJS ETC.
 					Gosto muito de programar e obter conhecimentos pois Estou em busca de oportunidades.
 					</div>
-					<div class={style.author}>- Analista Desenvolvedor Trainee</div>
+					<div class={style.author}>- Fernando, Analista Desenvolvedor Trainee</div>
 				</div>
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in
-					reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-					pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+					Olá você esta no meu pequeno Site que Desenvolvi usando ReactJS, sempre gostei de Tecnologias
+					como celulares, videogames, notebooks e computadores. Aos 14 anos comecei a fazer cursos de informática,
+					básico ao avançado, inglês entre outros cursos e palestras voltadas para Tecnologias. No Ensino Médio já
+					tinha optado por cursar faculdade na área de tecnologia.
 				</p>
 				<p class={style.bioright}>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-					accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-					ab illo inventore veritatis et quasi architecto beatae vitae dicta
-					sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-					aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-					qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-					dolorem ipsum quia dolor sit amet, consectetur.
+					Em 2015 comecei a cursar Ciência da Computação no Centro Universitário De Ensino superior Do
+					Amazonas - CIESA. Durante a faculdade dei início no desenvolvimento de pequenos projetos, e isso 
+					me levou a gostar ainda mais de desenvolver softwares. E os cursos e palestras praticados durante e após 
+					a faculdade me ajudam a seguir em frente e buscar ainda mais conhecimentos.
 				</p>
 			</div>
 		</div>
