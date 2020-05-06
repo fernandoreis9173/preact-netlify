@@ -24,11 +24,11 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						Meu nome é Fernando Reis. Sou Formado em Ciência da Computação no CIESA. Atualmemte Desenvolvo sistemas WEB
+					Voltado para Front-End e Back-End, usando Tecnologias como ReactJS, NodeJS, HTML5, CSS3, BOOTSTRAP, ANGULARJS ETC.
+					Gosto muito de programar e obter conhecimentos pois Estou em busca de oportunidades.
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
+					<div class={style.author}>- Analista Desenvolvedor Trainee</div>
 				</div>
 			</div>
 			<div class={style.bio}>

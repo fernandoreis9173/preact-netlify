@@ -58,5 +58,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/preactjs/preact-netlify.git"
-  }
+  },
+  "main": "preact.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": ""
 }
