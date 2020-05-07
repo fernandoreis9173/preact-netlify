@@ -24,7 +24,7 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Meu nome é Fernando Reis. Sou Formado em Ciência da Computação no CIESA. Atualmemte Desenvolvo sistemas WEB
+						Meu nome é FERNANDO REIS. Sou Formado em Ciência da Computação no CIESA. Atualmemte Desenvolvo sistemas WEB
 					Voltado para Front-End e Back-End, usando Tecnologias como ReactJS, NodeJS, HTML5, CSS3, BOOTSTRAP, ANGULARJS ETC.
 					Gosto muito de programar e obter conhecimentos pois Estou em busca de oportunidades.
 					</div>
