@@ -1,14 +1,19 @@
 ---
-title: Visiting Goa
+title: Para Recrutadores
 date: 2019-09-07T05:43:53.681Z
-tags: 'travel, india, goa'
+tags: ' recruiters , Human Resources '
 ---
-Lorem ipsum dolor sit amet, mei in iracundia comprehensam, dicit phaedrum ea vis. Ei purto iusto quo, nonumy honestatis usu no. Eam at lorem audire eligendi. Modus iriure dignissim has in, sed ut liber dicit mediocritatem. Et sed harum graecis, vitae admodum mel et, iracundia referrentur an sea.
+Olá Sr(a) meu nome é Fernando Silva Dos Reis tenho 24 anos, sou formado em Ciência da Computação no CIESA. Tenho experiência em Suporte de T.I e conhecimentos em linguagens de programação como PHP, HTML5, CSS3, BOOTSTRAP, REACTJS, NODEJS, ANGULARJS, JAVASCRIPT, MYSQL MONGODB, SCRUM , POSTGRESQL, XP, KANBAN entre outras.
 
-At usu tale everti philosophia, consequat gloriatur voluptatum mel cu. Ea quo tota modus debet, ad vitae consetetur conclusionemque usu. Nam cu eripuit luptatum. At posse nemore persequeris per. Mea ut aeterno vivendo, quodsi aeterno dissentiunt te cum.
+Sou Noivo, moro com minha noiva, estamos juntos há 8 anos e estamos esperando o primeiro filho, o Arthur, moro em manaus no bairro Novo Aleixo. 
 
-Vim id expetenda instructior, eu dolorem temporibus vis. Delenit voluptua id eum, nobis accumsan complectitur pri ut. Eu est enim quaeque lobortis, et tale essent fabulas cum. Eu ornatus debitis nec, paulo dicam dicunt pro ea, ad eam posse nusquam. Ne quis interesset comprehensam has, ex aperiam verterem tincidunt eum. Modus vitae viderer vim cu, id nec ferri fastidii.
+Em 2018 Estagiei como Suporte de T.I na DigiDoc, Prestava serviços para a Junta Comercial Do Estado Do Amazonas - JUCEA, como suporte, cabeamento de rede, cabeamento telefonico, digitalização de documentos, manutenção e montagem de computadores.
+Em 2019 também Estagiei como Suporte de T.I na Holiday inn Manaus, um Hotel muito bom, minha experiência de trabalhar em hotelaria foi muito importante para mim, pois pude obter muito conhecimento e me dedicar ao máximo. 
 
-Ex legendos mandamus periculis vim, suscipit fabellas ne vim. At adhuc dicant mea, vix ea quidam voluptatum ullamcorper. Ex sea dicit theophrastus, ne sint offendit sit, wisi consequat sit ne. Sed labores utroque consectetuer no, an his inani expetenda ocurreret. Quaestio efficiantur mea ne.
+Tenho cursos de Inglês Básico na yes com início em 2019 e presente. Também de ReactJS básico ao avançado pela Udemy em 2020. Conclui também Desenvolvimento WEB na Fundação Paulo Feitosa em 2018. Inglês básico e intermediário pelo CETAM em 2014 e Informática básica e avançada também pelo CETAM em 2013.
 
-Tale noster timeam mea ut, etiam mnesarchum usu ne, cu sit quot ridens vulputate. Minim error qui ne, causae eruditi senserit pro ex. Epicurei qualisque ea duo, pro ei posse offendit, ad nam habeo melius. An nam brute vivendum, at vim amet sonet cotidieque. Cu debitis abhorreant nam, mel ut quot explicari.
+Idiomas: Português nativo, Inglês Proficiência Profissional, me considero básico para o intermediário, e Espanhol Proficiência Pessoal e Profissinal.
+
+Meus interesses Profissionais: Desenvolvedor de Sistemas, Desenvolvedor Front-End, Inteligência Artificial, Big Data, Segurança de Software, Desenvolvimento Back-End, Analista de sistemas, Trainee e etc. 
+
+Sou muito dedicado no que eu faço, gosto de está aprendendo e ensinando, obtendo conhecimento e trabalhando com responsabilidade, uma das minhas qualidades é a pontualidade e entrega total ao trabalho. E um defeito meu é ser perfeccionista e querer as coias na hora. Espero que tenha gostado do que tenha visto, muito obrigado!
