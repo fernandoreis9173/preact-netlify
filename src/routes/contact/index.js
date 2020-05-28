@@ -19,19 +19,19 @@ const photographs = (props) => {
 					<div>&nbsp;</div>
 					<div>Abraços 🍻</div>
 				</p>
-				<form name="contact" method="GET" data-netlify="true" action="/contact/success?$_get['name']" data-netlify-honeypot="bot-field">
+				<form name="contact" method="POST" data-netlify="true" action="/contact/success" data-netlify-honeypot="bot-field">
 					<input type="hidden" name="form-name" value="contact" />
 					<p>
-						<input type="text" name="name" placeholder="Name" required />
+						<input type="text" name="name" placeholder="Nome" required />
 					</p>
 					<p>
 						<input type="email" name="email" placeholder="E-Mail" required />
 					</p>
 					<p>
-						<textarea name="message" placeholder="Message" />
+						<textarea name="message" placeholder="Mensagem" />
 					</p>
 					<p>
-						<button type="submit">Send</button>
+						<button type="submit">Enviar</button>
 					</p>
 				</form>
 			</div>

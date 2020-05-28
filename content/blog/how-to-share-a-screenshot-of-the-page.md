@@ -2,7 +2,7 @@
 title: A História da minha vida até aqui!
 date: 2019-09-07T05:42:28.441Z
 subtitle: Este é meu pequeno Blog para mostrar a vocês sobre a minha vida e minha paixão por tecnologia.
-cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
+# cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
 tags: ' technology , development '
 ---
 Eu nasci em 1996 na cidade de manaus - AM, sou o filho mas novo e tenho dois irmãos, Francisco Ediney o mais velho, é
