@@ -4,7 +4,7 @@ import style from './style';
 const photographs = (props) => {
 	return (
 		<div class={style.pageContact}>
-			<h1 class={style.pageTitle}>Thanks! I'll be in touch soon.</h1>
+			<h1 class={style.pageTitle}>Muito Obrigado, Retornaremos em breve!</h1>
 		</div>
 	);
 };
